@@ -8,6 +8,13 @@
 |Email|dydtnalswl@naver.com|
 |Github|https://github.com/Kim-Yong-Soo| 
 
+## 노력
+- 방학 때마다 백준의 알고리즘 문제를 매일 풀어보고자 노력하였습니다.
+![solved_cal.JPG](/solved_cal.JPG)
+- 이 문제 풀이와 동시에 개인 프로젝트를 진행하며 노력해왔습니다.
+![github_commit_cal.JPG](/github_commit_cal.JPG)
+- 앞으로도 더 많은 지식과 실력을 쌓기 위해 더욱 노력할 것입니다.
+
 ## 사용 프로그래밍 언어
 1. Java
 - 앱 개발에 본격적으로 관심을 갖게 되어 배우기 시작
