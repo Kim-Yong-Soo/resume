@@ -15,6 +15,25 @@
 ![github_commit_cal.JPG](/github_commit_cal.JPG)
 - 앞으로도 더 많은 지식과 실력을 쌓기 위해 더욱 노력할 것입니다.
 
+## 사용 기술
+### Android
+아이디어를 단지 생각하는 것에 그치지 않고 직접 구현하여 동작하도록 개발 가능한 안드로이드 스킬을 가지고 있습니다.
+- 언어: Kotlin (주), Java(부)
+- 프로젝트
+  - Share Music (v1.0 ~ 2.0)
+  - [간편 속도계](https://github.com/Kim-Yong-Soo/Speedometer)
+  - [2022 C애랑 소프트웨어 전시회 프로젝트](https://github.com/Kim-Yong-Soo/2022_Caerang_Exhibition)
+### 데이터 분석 및 활용(인공지능)
+아직 인공지능 분야에 대해 알아가고 있어 제대로 된 것을 개발하지 못하지만, 주어진 데이터를 처리 및 가공할 수 있는 스킬을 가지고 있습니다.
+- 언어: Python
+- 프로젝트
+  - [2022 C애랑 소프트웨어 전시회 프로젝트](https://github.com/Kim-Yong-Soo/2022_Caerang_Exhibition)
+### 그외 프로그램 구현
+만들고자 하는 프로그램이 있다고 하면 주요 기능들이 동작하도록 개발할 수 있습니다.
+- 언어: C, JavaScript
+- 프로젝트
+  - [학급 안내 챗봇](https://github.com/Kim-Yong-Soo/WiuBot)
+
 ## 사용 프로그래밍 언어
 1. Java
 - 앱 개발에 본격적으로 관심을 갖게 되어 배우기 시작
